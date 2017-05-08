@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans|Source+Sans+Pro:300,400');
+
+
+
+
+body {
+
+	background-color: #000000;
+}
+#wrapper {
+    width: 1024px;
+	margin: auto;
+    }
+
+header {
+    width: 100%;
+    float: left;
+
+}
+
+
+.socialicons {
+    float: right;
+    display: block;
+    margin: 0;
+    padding: 0;
+   }
+.nopad {
+
+   margin: 0;
+   padding: 0;
+}
+
+#topnavigation {
+    width: 100%;
+    float: left;
+    background: #9e9c9c;
+    text-decoration: none !important;
+}
+.topnav ul li {
+    float: left;
+    padding: 1em 1.75em;
+    text-decoration: none !important;
+    list-style-type: none;
+}
+
+.topnav a {
+
+     text-decoration: none !important;
+     color: #FFF;
+}
+h1 {
+
+	color: #fff;
+	
+}
+
+p{
+
+	color: #fff;
+	
+}
+
+#maincontent {
+    width: 100%;
+    float: left;
+    margin: 0 auto;
+    background: white;
+    padding-top: 16px;
+}
+section{
+
+    background-color: white;
+    clear: both;
+}
+
+
+ul, li, img {
+    margin: 0;
+    padding: .5em;
+    text-align: center;
+}
+
+ 
+
+section ul {
+    margin: 0;
+    width: 98.5%;
+}
+
+section ul li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+
+.bottomnav1 {
+
+    width: 25%;
+    float: left;
+    color: red:;
+}
+
+.bottomnav2 {
+
+    width: 25%;
+    float: left;
+}
+.bottomnav3 {
+
+    width: 25%;
+    float: left;
+}
+.bottomnav4 {
+
+    width: 25%;
+    float: left;
+}
+.bottomnav15 {
+
+    width: 100%;
+    float: left;
+}
+.floating-image{
+    float: left;
+    width: 260px;
+    height: 504px;
+    margin: 20px;
+    }
+
